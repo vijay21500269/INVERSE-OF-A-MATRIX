@@ -19,7 +19,7 @@ a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 sol=np.linalg.inv(a)
 print(sol)
 ## Output:
-![output]()
+![output](https://github.com/vijay21500269/INVERSE-OF-A-MATRIX/blob/main/Screenshot%20(7).png?raw=true)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
